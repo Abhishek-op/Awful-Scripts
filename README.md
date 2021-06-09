@@ -1,4 +1,4 @@
-# 😎 AwfulScripts
+# 😎 Awful-Scripts
 ![image](https://img.shields.io/static/v1?logoColor=black&style=plastic&logo=Awesome-Lists&label=🗿&message=awesome&color=ff69b4)
 # 📌 Introduction
 ![image](https://img.shields.io/static/v1?label=language&message=python&color=brightgreen)
