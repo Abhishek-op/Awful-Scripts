@@ -4,4 +4,4 @@
 #### 1. Simple calculater
 #### 2. Guess-the-number game
 #### 3. System shutdown, reboot, logoff script
-#### 4. In math squireroot, cuberoot of number
+#### 4. In math squireroot, cuberoot of number, binary addition, factorial
