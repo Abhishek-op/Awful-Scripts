@@ -6,7 +6,35 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Currency Converter</title>
-  <link rel="stylesheet" href="style.css">
+<style>
+.currency select {
+  padding: 10px 20px 10px 10px;
+  -moz-appearance: none;
+  -webkit-apperance: none;
+  appearance: none;
+  border: 1px solid #dedede;
+  font-size: 16px
+}
+.currency input {
+  border: 0;
+  background: transparent;
+  font-size: 30px;
+  text-align: right;
+}
+
+.swap-rate-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rate {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: var(--primary-color);
+  font-size: 20px;
+  padding: 0 10px;
+}
+</style>
 </head>
 
 <body bgcolor="Silver">
