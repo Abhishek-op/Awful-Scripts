@@ -26,12 +26,6 @@ class MyWidget(BoxLayout):
         image1 = Image.open(f)
         im1 = image1.convert('RGB')
         im1.save(d)
-        
-  
-        
-        
-        
-
 
 class MyApp(App):
     def build(self):
