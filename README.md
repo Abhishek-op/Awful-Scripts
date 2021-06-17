@@ -10,7 +10,8 @@
 ![image](https://img.shields.io/static/v1?label=language&message=php&color=brightgreen)
 
 AwfulScripts is a collection of amazing scripts, used to make everyday life easy. Here you can fing most simple to advance scripts like port scanners, stegagnography, youtube downloader, brute-force attack and many more things.
-![image](https://user-images.githubusercontent.com/83164668/121241404-05fe7800-c8b9-11eb-9d3c-5140defbc41f.png)
+![image](https://user-images.githubusercontent.com/83164668/122360567-1aefa100-cf74-11eb-9830-5565a901c44e.png)
+
 # 🚀 Getting started
 See a introduction vedio:
 
