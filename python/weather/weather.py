@@ -6,7 +6,7 @@ def main():
 	a = input()
 	hurl="https://api.openweathermap.org/data/2.5/weather?q="
 	b = "&appid="
-	token = "f9485f4a8083d0333d16c46db5c31e32"
+	token = "f948xxxxxxxxxxxxxxxxxxxyour api keyxxxxxxxxxxxxxxxxxx6c46db5c31e32"
 	url = hurl+a+b+token
 	response = requests.get(url)
 	x=response.json()
