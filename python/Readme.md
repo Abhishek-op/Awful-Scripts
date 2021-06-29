@@ -20,3 +20,7 @@
 #### 16. My location based on my ip
 #### 17. Birthday wishes
 #### 18. Result of toss a coin: random
+#### 19. Timer
+#### 20. pdf encryption
+#### 21. Song lyric fatcher
+#### 22. Word meaning
