@@ -27,4 +27,4 @@ AwfulScripts is a collection of amazing scripts. The main goal of these script t
 # 📃 LICENSE
 
 ## ⭐Give this Project a Star and also Check out my Github profile [Abhishek-op](https://github.com/Abhishek-op)
-#### © 2021 Abhishek
+#### © 2021 Abhishek-op
