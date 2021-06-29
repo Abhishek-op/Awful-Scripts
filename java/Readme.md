@@ -4,3 +4,4 @@
 # ⏳ What we have
 #### 1. Guess-the-word game
 #### 2. Tic-tic-toe game
+#### 2. Bidirectional communication via sockets
