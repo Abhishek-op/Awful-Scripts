@@ -24,7 +24,7 @@ AwfulScripts is a collection of amazing scripts. The main goal of these script t
 6. [perl](https://www.perl.org/)
 7. [java](https://www.java.com/)
 8. [c++](https://isocpp.org/)
-# 📃 LICENSE
-
 ## ⭐Give this Project a Star and also Check out my Github profile [Abhishek-op](https://github.com/Abhishek-op)
+# 📃 LICENSE
+[MIT LICENSE](https://github.com/Abhishek-op/Awful-Scripts/blob/main/LICENSE)
 #### © 2021 Abhishek-op
