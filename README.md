@@ -16,14 +16,14 @@ AwfulScripts is a collection of amazing scripts.
 AwfulScripts is a collection of amazing scripts. The main goal of these script to provide utility scripts that could make life more easier.
 ![image](https://user-images.githubusercontent.com/83164668/122360962-728e0c80-cf74-11eb-8a65-b20f26384008.png)
 # 💻 Languages
-[Python](https://www.python.org/)
-[JavaScript](https://sourceforge.net/projects/jscript/)
-[GoLang](https://golang.org/)
-[BASH]()
-[php](https://www.python.org/)
-[perl](https://www.perl.org/)
-[java](https://www.java.com/)
-[c++](https://isocpp.org/)
+1. [Python](https://www.python.org/)
+2. [JavaScript](https://sourceforge.net/projects/jscript/)
+3. [GoLang](https://golang.org/)
+4. [BASH]()
+5. [php](https://www.python.org/)
+6. [perl](https://www.perl.org/)
+7. [java](https://www.java.com/)
+8. [c++](https://isocpp.org/)
 # 📃 LICENSE
 
 ## ⭐Give this Project a Star and also Check out my Github profile [Abhishek-op](https://github.com/Abhishek-op)
