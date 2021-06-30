@@ -2,6 +2,7 @@
 ![image](https://img.shields.io/static/v1?logoColor=black&style=plastic&logo=Awesome-Lists&label=🗿&message=awesome&color=ff69b4)
 [![GitHub forks](https://img.shields.io/github/forks/Abhishek-op/Awful-Scripts.svg?style=flat&label=Fork&maxAge=43200)](https://gitHub.com/HarshCasper/Rotten-Scripts/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Abhishek-op/Awful-Scripts.svg?style=flat&label=Star&maxAge=43200)](https://gitHub.com/HarshCasper/Rotten-Scripts/stargazers/)
+![image](https://img.shields.io/static/v1?label=maintaining&message=yes&color=brightgreen)
 # 📌 Introduction
 ![image](https://img.shields.io/static/v1?label=language&message=python&color=brightgreen)
 ![image](https://img.shields.io/static/v1?label=language&message=ruby&color=brightgreen)
