@@ -53,6 +53,6 @@ func main() {
     
     var responseObject Response
     json.Unmarshal(responseData, &responseObject)
-    fmt.Println("Place latitude state latitude ")
+    fmt.Println("Place longitude state latitude ")
     fmt.Println(responseObject)
 }
