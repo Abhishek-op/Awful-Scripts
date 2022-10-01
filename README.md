@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 # 😎 Awful-Scripts
 ![image](https://img.shields.io/static/v1?logoColor=black&style=plastic&logo=Awesome-Lists&label=🗿&message=awesome&color=ff69b4)
 [![GitHub forks](https://img.shields.io/github/forks/Abhishek-op/Awful-Scripts.svg?style=flat&label=Fork&maxAge=43200)](https://gitHub.com/HarshCasper/Abhishek-op/Awful-Scripts)
